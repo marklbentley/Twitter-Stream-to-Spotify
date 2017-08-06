@@ -1,4 +1,4 @@
-# H1 Twitter Stream to Spotify
+# Twitter Stream to Spotify
 
 Take a twitter feed of songs and populate a spotify playlist.
 
